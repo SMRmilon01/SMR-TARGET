@@ -1,4 +1,4 @@
-# KS-TARGET
+# SMR-TARGET
 😈🖤👑🖕🏻
 
 
@@ -31,22 +31,20 @@
 🖤Pip install bs4
 
 
-🖤git clone https://github.com/Kabirsingh11/KS-TARGET
+🖤git clone https://github.com/SMRmilon01/SMR-TARGET
 
 
-🖤cd KS-TARGET
+🖤cd SMR-TARGET
 
 
 🖤ls
 
 
-🖤python2 KabirTarget.pyc
+🖤python2 MilonTarget.pyc
 
 
 Note:‼️ IF YOU DON'T HAVE WORDLIST DOWNLOAD FROM THIS LINK 😈🌺
 
 https://www.mediafire.com/file/649df8v1m22dbhd/kabirpasslist.txt/file
 
-⭕SUBSCRIBE MY CHANNEL FOR  HELP⭕
 
-https://youtube.com/channel/UChKjimPjldJkkq-KY3MdZtw
