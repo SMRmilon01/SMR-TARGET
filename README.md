@@ -31,16 +31,16 @@
 🖤Pip install bs4
 
 
-🖤git clone https://github.com/SMRmilon01/SMR-TARGET
+git clone https://github.com/SMRmilon01/SMR-TARGET
 
 
-🖤cd SMR-TARGET
+cd SMR-TARGET
 
 
-🖤ls
+ls
 
 
-🖤python2 MilonTarget.pyc
+python2 MilonTarget.pyc
 
 
 Note:‼️ IF YOU DON'T HAVE WORDLIST DOWNLOAD FROM THIS LINK 😈🌺
